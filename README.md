@@ -1,2 +1,2 @@
 # first-website
-odin-project
+https://ragevl.github.io
